@@ -57,8 +57,8 @@ streamlit run app/dashboard.py
 
 ## Live Demo
 
-Add your deployed Streamlit link here.
+https://retailpulseai-cycnyvxmwvsbbbc8sgdgze.streamlit.app/
 
 ## Author
 
-Your Name
+Hari Charan Hosakote Lokesh
